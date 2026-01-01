@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionFlow 4K - Advanced Blob Tracker",
+  "description": "A high-performance computer vision application for real-time blob tracking, motion analysis, and object counting in 4K 60FPS videos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
